@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  border-radius: 4px;
+}
+
+.navigation-links {
+  color: chocolate;
+  display: flex;
+  justify-content: space-evenly;
+}
